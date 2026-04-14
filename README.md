@@ -10,3 +10,7 @@ Folder structure you will create:
 docs/ → Put the full slides PDF here
 src/main/scala/... → All Scala code
 data/ → Your amazon_reviews.csv (add to .gitignore)
+
+
+## Project Slides
+[Amazon-Reviews-Medallion-Lakehouse-Slides.pdf](docs/Amazon-Reviews-Medallion-Lakehouse-Slides.pdf)
