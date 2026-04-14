@@ -5,11 +5,7 @@ Features: ETL pipelines, schema enforcement, real-time streaming, sentiment anal
 Tech Stack: Scala 2.12, Spark 3.5.1, Delta Lake 3.2.0, MLlib
 Course: CSI322 – Spark and Scala Capstone Project
 Perfect portfolio project for Data Engineer roles.
-Folder structure you will create:
 
-docs/ → Put the full slides PDF here
-src/main/scala/... → All Scala code
-data/ → Your amazon_reviews.csv (add to .gitignore)
 
 
 ## Project Slides
